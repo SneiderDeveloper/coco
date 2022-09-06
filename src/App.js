@@ -74,7 +74,7 @@ function App() {
               Identifica objectos contidianos<br />
               Este modelo fue entrenado con un set de datos de tensorflow
             </p>
-            <p class="App-text-footer">Hecho gracias a videos en youtube por el CIPA 3</p>
+            <p class="App-text-footer">Hecho por el CIPA 3</p>
           </div>
         </div>
       </main>
